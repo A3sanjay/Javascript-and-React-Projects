@@ -1,0 +1,10 @@
+.total {
+    display: inline-block;
+    border: 1px solid black;
+}
+
+.total .movies {
+    font-weight: bold;
+    padding-left: 50%;
+    size: larger;
+}
